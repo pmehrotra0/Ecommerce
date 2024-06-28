@@ -1,0 +1,33 @@
+
+.page-body{
+  margin-top: 5%;
+}
+.cover {
+  margin-left: 12vw;
+  object-fit: cover;
+  width: 400px;
+  height: 400px;
+}
+.carousel-caption-custom{
+  right: 0 !important;
+  top: 33%;
+  left: 35% !important;
+}
+.checkout-img{
+  height: 25vh;
+  margin: 0% 7%;
+  float: left;
+}
+.product-header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 2% 10%;
+}
+.product-header>*{
+  margin: 1% 5%;
+}
+.product-card-img{
+  object-fit: cover;
+  height: 75vh;
+}
